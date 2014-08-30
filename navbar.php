@@ -12,9 +12,14 @@
 						<div>
 							<a href="index.php?p=menu" class="content-link menu-wrapper menu-item-has-children"><span>Menu</span> <img src="img/icon2.png" alt=""/></a>
 							<ul class="subnav">
-								<li><a href="index.php?p=menu" title=""><span>menu 1</span></a></li>
-								<li><a href="index.php?p=menu2" title=""><span>menu 2</span></a></li>
-								<li><a href="index.php?p=menu3" title=""><span>menu 3</span></a></li>
+								<li><a href="index.php?p=entrees" title=""><span>entrees</span></a></li>
+								<li><a href="index.php?p=mains" title=""><span>main course</span></a></li>
+								<li><a href="index.php?p=rice" title=""><span>Rice</span></a></li>
+								<li><a href="index.php?p=bread" title=""><span>Tandoori Bread</span></a></li>
+								<li><a href="index.php?p=accomp" title=""><span>Accompaniments</span></a></li>
+								<li><a href="index.php?p=salads" title=""><span>Salads</span></a></li>
+								<li><a href="index.php?p=desserts" title=""><span>Desserts</span></a></li>
+								<li><a href="index.php?p=drinks" title=""><span>Drinks</span></a></li>
 							</ul>
 						</div>
 					</li>
