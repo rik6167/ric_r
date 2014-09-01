@@ -3,7 +3,12 @@
 		<div class="row">
 			<nav class="col-md-12 clearfix">
 				<ul class="main-nav white-nav dotted-separator">
-					<li>
+					<li class="menu-image">
+						<div>
+							<a class="content-link" title="logo" href="index.php"><img src="img/logo.png" alt=""></a>
+						</div>
+					</li>
+                                    <li>
 						<div>
 							<a href="index.php?p=restaurant" class="content-link restaurant-wrapper"><span>Restaurant</span> <img src="img/icon1.png" alt=""/></a>
 						</div>
@@ -23,11 +28,7 @@
 							</ul>
 						</div>
 					</li>
-					<li class="menu-image">
-						<div>
-							<a class="content-link" title="logo" href="index.php"><img src="img/logo.png" alt=""></a>
-						</div>
-					</li>
+
 					<li>
 						<div>
 							<a href="index.php?p=reservation" class="content-link reservation-wrapper"><span>Reservation</span> <img src="img/icon3.png" alt=""/></a>

@@ -10,12 +10,12 @@
 			<li>
 				<a href="https://google.com"><i class="fa fa-google-plus"></i></a>
 			</li>
-			<li>
+<!--			<li>
 				<a href="https://pinterest.com"><i class="fa fa-pinterest"></i></a>
 			</li>
 			<li>
 				<a href="https://linkedin.com"><i class="fa fa-linkedin"></i></a>
-			</li>
+			</li>-->
 		</ul>
 	</div>
 	<div class="arrow-nav hidden-sm hidden-md hidden-lg">
@@ -25,20 +25,23 @@
 	</div>
 	<div id="maximage">
 		<div>
-			<img src="http://placehold.it/2560x1440" alt="" class="current-slide" data-href=".slide1"/>
+			<img src="img/butterchik.jpg" alt="" class="current-slide" data-href=".slide1"/>
 		</div>
 		<div>
-			<img src="http://placehold.it/2560x1440" alt="" data-href=".slide2"/>
+			<img src="img/r1.jpeg" alt="" data-href=".slide2"/>
 		</div>
+		<div>
+			<img src="img/r2.jpeg" alt="" data-href=".slide2"/>
+		</div>
+		<div>
+			<img src="img/r3.jpeg" alt="" data-href=".slide3"/>
+		</div><!--
 		<div>
 			<img src="http://placehold.it/2560x1440" alt="" data-href=".slide3"/>
 		</div>
 		<div>
 			<img src="http://placehold.it/2560x1440" alt="" data-href=".slide3"/>
-		</div>
-		<div>
-			<img src="http://placehold.it/2560x1440" alt="" data-href=".slide3"/>
-		</div>
+		</div>-->
 	</div>
 
 </div>

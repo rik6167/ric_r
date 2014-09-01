@@ -1,7 +1,8 @@
 <div class="dynamic-content contact-wrapper" id="main-content">
 	<section id="contact" class="padding-wrapper">
 		<div class="container">
-			<div id="map" class="map"></div>
+<!--			<div id="map" class="map"></div>-->
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3311.302737166699!2d151.20965609999996!3d-33.90760719999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b12b1c02cdd9e55%3A0x319c555dd6e336c8!2s12+Victoria+Park+Parade%2C+Zetland+NSW+2017!5e0!3m2!1sen!2sau!4v1409579549661" width="1140" height="300" frameborder="0" style="border:0"></iframe>
 		</div>
 		<div class="container">
 			<div class="row">
@@ -10,7 +11,7 @@
 						<div class="col-sm-6 col-md-12">
 							<div class="info">
 								<h1>Info</h1>
-								<p>Lorem ipsum nunc gravida ut ornare, id at varius quam. Mattis quis tortor hendrerit, mollis ligula platea rhoncus, himenaeos facilisis. Condimentum et urna sit blandit ultricies, nullam arcu eget proin. </p>
+								<p>Looking forward to hearing from you. If you'd like to contact us, you can phone us directly or use the form.</p>
 							</div>
 						</div>
 						<div class="col-sm-offset-1 col-sm-5 col-md-12 col-md-offset-0">
@@ -23,9 +24,9 @@
 									<li>
 										<a href="https://google.com"><i class="fa fa-google-plus"></i></a>
 									</li>
-									<li>
+<!--									<li>
 										<a href="https://twitter.com"><i class="fa fa-twitter"></i></a>
-									</li>
+									</li>-->
 								</ul>
 							</div>
 						</div>	

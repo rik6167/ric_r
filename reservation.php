@@ -3,22 +3,24 @@
 		<div class="row reservation  padding-wrapper">
 			<div class="hidden-xs col-md-7">
 				<div id="slider-res" class="owl-carousel owl-theme">
+<!--					<figure class="item">
+						<img src="img/1.jpg" alt=""/>
+					</figure>-->
 					<figure class="item">
-						<img src="http://placehold.it/680x596" alt=""/>
+						<img src="img/2.jpg" alt=""/>
 					</figure>
 					<figure class="item">
-						<img src="http://placehold.it/680x596" alt=""/>
+						<img style="height: 455px;" src="img/3.jpg" alt=""/>
 					</figure>
-					<figure class="item">
-						<img src="http://placehold.it/680x596" alt=""/>
-					</figure>
+
 				</div>
 			</div>
 			<div class="col-xs-12 col-md-5">
 				<div class="info-reservation">
 					<h1>Reservation</h1>
 					<p>
-						Lorem ipsum nunc gravida ut ornare, id at varius quam. Mattis quis tortor hendrerit, mollis ligula platea rhoncus, himenaeos facilisis. Condimentum et urna sit blandit ultricies, nullam arcu eget proin. 
+						Reservations can be made by phoning the restaurant or filling in the form below.<br/><br/>
+                                                If making a same day booking, please do so by phoning us directly.
 					</p>
 					<h1>Date</h1>
 					<div class="select-date">
