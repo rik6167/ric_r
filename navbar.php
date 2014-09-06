@@ -15,16 +15,15 @@
 					</li>
 					<li>
 						<div>
-							<a href="index.php?p=menu" class="content-link menu-wrapper menu-item-has-children"><span>Menu</span> <img src="img/icon2.png" alt=""/></a>
+							<a href="index.php?p=entrees" class="content-link menu-wrapper menu-item-has-children"><span>Menu</span> <img src="img/icon2.png" alt=""/></a>
 							<ul class="subnav">
 								<li><a href="index.php?p=entrees" title=""><span>entrees</span></a></li>
 								<li><a href="index.php?p=mains" title=""><span>main course</span></a></li>
 								<li><a href="index.php?p=rice" title=""><span>Rice</span></a></li>
 								<li><a href="index.php?p=bread" title=""><span>Tandoori Bread</span></a></li>
-								<li><a href="index.php?p=accomp" title=""><span>Accompaniments</span></a></li>
-								<li><a href="index.php?p=salads" title=""><span>Salads</span></a></li>
-								<li><a href="index.php?p=desserts" title=""><span>Desserts</span></a></li>
-								<li><a href="index.php?p=drinks" title=""><span>Drinks</span></a></li>
+								<li><a href="index.php?p=accomp" title=""><span>Accompaniments / Salads</span></a></li>							
+								<li><a href="index.php?p=desserts" title=""><span>Desserts / Drinks</span></a></li>
+						
 							</ul>
 						</div>
 					</li>
@@ -37,6 +36,15 @@
 					<li>
 						<div>
 							<a href="index.php?p=contact" class="content-link contact-wrapper"><span>Contact </span><img src="img/icon4.png" alt=""/></a>
+						</div>
+					</li>
+					<li>
+						<div>
+							<a href="index.php?p=contact" class="content-link contact-wrapper"><span>Order Online </span><img src="img/online.png" style="width: 55px;
+height: 77px;
+position: absolute;
+top: -12px;
+}" alt=""/></a>
 						</div>
 					</li>
 				</ul>
