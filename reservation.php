@@ -1,3 +1,4 @@
+<?php error_reporting(0);?>
 <div class="dynamic-content reservation-wrapper" id="main-content">
 	<div class="container">
 		<div class="row reservation  padding-wrapper">
