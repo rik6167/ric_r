@@ -2,19 +2,22 @@
 	<ul id="menu-mobile" class="nav flyout-menu">
 		<li class="menu-item-has-children menu-item">
 			<a title="" href="index.php?p=restaurant">Restaurant</a>
-			<span class="open-children"><i class="fa fa-angle-down"></i></span>
+<!--			<span class="open-children"><i class="fa fa-angle-down"></i></span>
 			<ul class="subnav">
 				<li><a href="index.php?p=blog" title=""><span>Blog</span></a></li>
 				<li><a href="index.php?p=team" title=""><span>Team</span></a></li>
-			</ul>			
+			</ul>			-->
 		</li>
 		<li class="menu-item-has-children menu-item">
-			<a title="" href="index.php?p=menu">Menu</a>
+			<a title="" href="index.php?p=mains">Menu</a>
 			<span class="open-children"><i class="fa fa-angle-down"></i></span>
 			<ul class="subnav">
-				<li><a href="index.php?p=menu" title=""><span>Menu 1</span></a></li>
-				<li><a href="index.php?p=menu2" title=""><span>Menu 2</span></a></li>
-				<li><a href="index.php?p=menu3" title=""><span>Menu 3</span></a></li>
+                            <li><a href="index.php?p=entrees" title=""><span>entrees</span></a></li>
+                            <li><a href="index.php?p=mains" title=""><span>main course</span></a></li>
+                            <li><a href="index.php?p=rice" title=""><span>Rice</span></a></li>
+                            <li><a href="index.php?p=bread" title=""><span>Tandoori Bread</span></a></li>
+                            <li><a href="index.php?p=accomp" title=""><span>Accompaniments & Salads</span></a></li>							
+                            <li><a href="index.php?p=desserts" title=""><span>Desserts & Drinks</span></a></li>
 			</ul>
 		</li>
 		<li class="menu-item">

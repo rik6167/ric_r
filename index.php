@@ -30,7 +30,7 @@
 						<ul class="main-menu nav">
 							<li>
 								<header class="small-logo">
-									<a href="index.php?page=home" title=""><img src="img/logo.png" alt="Barnelli"/></a>
+									<a href="index.php?page=home" title=""><img style="width: 250px;" src="img/logo1.png" alt='Royal Indian Club Restaurant'/></a>
 								</header>
 							</li>
 							<li class="reorder">

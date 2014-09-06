@@ -29,8 +29,8 @@ font-size: 16px;
 								<li><a href="index.php?p=mains" title=""><span>main course</span></a></li>
 								<li><a href="index.php?p=rice" title=""><span>Rice</span></a></li>
 								<li><a href="index.php?p=bread" title=""><span>Tandoori Bread</span></a></li>
-								<li><a href="index.php?p=accomp" title=""><span>Accompaniments / Salads</span></a></li>							
-								<li><a href="index.php?p=desserts" title=""><span>Desserts / Drinks</span></a></li>
+								<li><a href="index.php?p=accomp" title=""><span>Accompaniments & Salads</span></a></li>							
+								<li><a href="index.php?p=desserts" title=""><span>Desserts & Drinks</span></a></li>
 						
 							</ul>
 						</div>
