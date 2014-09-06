@@ -1,3 +1,11 @@
+<style>
+    .navbar {background-color: #FFF;}
+    .navbar .main-nav>li a {
+color: #323190;
+font-size: 16px;
+
+}
+</style>
 <div class="navbar hidden-xs">
 	<div class="container">
 		<div class="row">
@@ -5,7 +13,7 @@
 				<ul class="main-nav white-nav dotted-separator">
 					<li class="menu-image">
 						<div>
-							<a class="content-link" title="logo" href="index.php"><img src="img/logo.png" alt=""></a>
+							<a class="content-link" title="logo" href="index.php"><img style="height:104px;" src="img/logo1.png" alt=""></a>
 						</div>
 					</li>
                                     <li>
@@ -40,7 +48,7 @@
 					</li>
 					<li>
 						<div>
-							<a href="index.php?p=contact" class="content-link contact-wrapper"><span>Order Online </span><img src="img/online.png" style="width: 55px;
+							<a href="index.php?p=online" class="content-link "><span>Order Online </span><img src="img/online.png" style="width: 55px;
 height: 77px;
 position: absolute;
 top: -12px;

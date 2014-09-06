@@ -6,8 +6,8 @@
 	<head>
 		<meta charset="utf-8">
 		 <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
-		<title>BARNELLI</title>
-		<meta name="description" content="">
+		<title>Royal Indian Club</title>
+		<meta name="description" content="Royal Indian Club Restaurent">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
 		<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 		<link rel="stylesheet" href="less/custom.css">

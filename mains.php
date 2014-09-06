@@ -4,7 +4,7 @@
 			<header class="row">
 				<div class="col-md-12">
 					<div class="menu-header">
-						<h2><span>Chicken <i class="fa fa-lemon-o"></i></span></h2>
+						<h2><span>Mains: Chicken <i class="fa fa-lemon-o"></i></span></h2>
 					</div>
 				</div>
 			</header>
@@ -102,7 +102,7 @@
 			<header class="row">
 				<div class="col-md-12">
 					<div class="menu-header">
-						<h2><span>Lamb <i class="fa fa-lemon-o"></i></span></h2>
+						<h2><span>Mains: Lamb <i class="fa fa-lemon-o"></i></span></h2>
 					</div>
 				</div>
 			</header>                    
@@ -198,7 +198,7 @@
 			<header class="row">
 				<div class="col-md-12">
 					<div class="menu-header">
-						<h2><span>Sea Food <i class="fa fa-lemon-o"></i></span></h2>
+						<h2><span>Mains: Sea Food <i class="fa fa-lemon-o"></i></span></h2>
 					</div>
 				</div>
 			</header>   
@@ -263,7 +263,7 @@
                     	<header class="row">
 				<div class="col-md-12">
 					<div class="menu-header">
-						<h2><span>Vegetarian <i class="fa fa-lemon-o"></i></span></h2>
+						<h2><span>Mains: Vegetarian <i class="fa fa-lemon-o"></i></span></h2>
 					</div>
 				</div>
 			</header>

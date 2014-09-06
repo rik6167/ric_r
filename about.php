@@ -5,7 +5,7 @@
 				<section class="blog-post">
 					<a href="index.php?p=post" class="img-blog">
 						<figure>
-							<img src="http://placehold.it/620x150" alt=""/>
+							<img src="img/88.jpg" alt=""/>
 						</figure>
 					</a>
 					<header>
@@ -13,7 +13,7 @@
 						
 					</header>
 					<article class="text-post">
-						<p>We at Tantra believe that the exotic taste of the Indian Cuisine is something to be shared and enjoyed by one and all.
+						<p>We at Royal Indian Club believe that the exotic taste of the Indian Cuisine is something to be shared and enjoyed by one and all.
                                                     We have specialized in blending the various Indian herbs and spices to produce some fine mouth watering authentic Indian dishes which will be a delight to your pallette. 
                                                 </p>
                                                 <p>                                                     
@@ -30,7 +30,7 @@
 <!--                    Side -->
 			<div class="col-md-offset-1 col-md-3">
                                 <div class="square">
-                                        <div class="square-bg" style="background-image:url(http://placehold.it/540x400)"></div>
+                                        <div class="square-bg" style="background-image:url(img/clock.jpg)"></div>
                                         <i class="fa fa-clock-o"></i>
                                         <div class="square-header">
                                                 <p class="title">Trading</p>
@@ -51,7 +51,7 @@
 				<div class="widget-reservation">
 					<a href="index.php?p=reservation">
 					<div class="square">
-						<div class="square-bg" style="background-image:url(http://placehold.it/540x400)"></div>
+						<div class="square-bg" style="background-image:url(img/999.jpg)"></div>
 						<i class="fa fa-calendar-o"></i>
 						<div class="square-header">
 							<p class="title">Reserve</p>
@@ -66,7 +66,7 @@
 				<div class="widget-reservation">
 					<a href="index.php?p=entrees">
 					<div class="square">
-						<div class="square-bg" style="background-image:url(http://placehold.it/540x400)"></div>
+						<div class="square-bg" style="background-image:url(img/65.jpg)"></div>
 						<i class="fa fa-calendar-o"></i>
 						<div class="square-header">
 							<p class="title">Check</p>
