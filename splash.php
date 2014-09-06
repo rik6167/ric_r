@@ -4,9 +4,9 @@
 			<li>
 				<a href="https://facebook.com"><i class="fa fa-facebook"></i></a>
 			</li>
-			<li>
+<!--			<li>
 				<a href="https://twitter.com"><i class="fa fa-twitter"></i></a>
-			</li>
+			</li>-->
 			<li>
 				<a href="https://google.com"><i class="fa fa-google-plus"></i></a>
 			</li>
