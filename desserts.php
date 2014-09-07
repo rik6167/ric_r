@@ -14,7 +14,7 @@
 									<p class="title">97-PISTA KULFI </p>
 									<p class="description"></p>
 						<div class="price">
-							<span>$4.99</span>
+							<span>4.99</span>
 						</div>
 					</article>
 				</div>
@@ -23,7 +23,7 @@
 									<p class="title">98-MANGO KULFI</p>
 									<p class="description">home made indian ice cream with mango</p>
 						<div class="price">
-							<span>$4.99</span>
+							<span>4.99</span>
 						</div>
 					</article>
 				</div>
@@ -79,7 +79,7 @@
 									<p class="title">102- SWEET OR SALT LASSI- COOLING YOGHHURT DRINK</p>
 									<p class="description"></p>
 						<div class="price">
-							<span>$3.00</span>
+							<span>3.00</span>
 						</div>
 					</article>
 				</div>
@@ -88,7 +88,7 @@
 									<p class="title">103- ROSE OR MANGO LASSI- LASSI WITH ROSE SYRUP</p>
 									<p class="description"></p>
 						<div class="price">
-							<span>$3.50</span>
+							<span>3.50</span>
 						</div>
 					</article>
 				</div>
@@ -97,7 +97,7 @@
 									<p class="title">104- JUICES</p>
 									<p class="description"></p>
 						<div class="price">
-							<span>$3.50</span>
+							<span>3.50</span>
 						</div>
 					</article>
 				</div>
@@ -105,10 +105,10 @@
 			<section class="row">
 				<div class="menu-list col-md-4">
 					<article class="menu-item">
-									<p class="title">105- SOFT DRINKS CANS $3.00 BOTTLES</p>
+									<p class="title">105- SOFT DRINKS </p>
 									<p class="description"></p>
 						<div class="price">
-							<span>$4.00</span>
+							CANS <span>3.00</span> BOTTLES: <span>4.00</span>
 						</div>
 					</article>
 				</div>

@@ -48,7 +48,7 @@ font-size: 16px;
 					</li>
 					<li>
 						<div>
-							<a href="index.php?p=online" class="content-link "><span>Order Online </span><img src="img/online.png" style="width: 55px;
+							<a href="" onclick="alert('coming soon..');return false;" class="content-link "><span>Order Online </span><img src="img/online.png" style="width: 55px;
 height: 77px;
 position: absolute;
 top: -12px;

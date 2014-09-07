@@ -14,7 +14,7 @@
 									<p class="title">70- NAAN</p>
 									<p class="description">plain flour bread cooked in tandoor</p>
 						<div class="price">
-							<span>16,50</span>
+							<span>1,99</span>
 						</div>
 					</article>
 				</div>
@@ -23,7 +23,7 @@
 									<p class="title">71- GARLIC NAAN</p>
 									<p class="description">naan finished with garlic</p>
 						<div class="price">
-							<span>13,50</span>
+							<span>2,50</span>
 						</div>
 					</article>
 				</div>
@@ -32,7 +32,7 @@
 									<p class="title">72- BUTTER NAAN</p>
 									<p class="description">tricorne shape flakky bread finished with butter</p>
 						<div class="price">
-							<span>14,20</span>
+							<span>3,50</span>
 						</div>
 					</article>
 				</div>
@@ -43,7 +43,7 @@
 									<p class="title">73- KASHMIRI NAAN</p>
 									<p class="description">bread stuffed with minced dry fruit & nuts</p>
 						<div class="price">
-							<span>16,50</span>
+							<span>3,99</span>
 						</div>
 					</article>
 				</div>
@@ -52,7 +52,7 @@
 									<p class="title">74- PANEER NAAN</p>
 									<p class="description">bread stuffed with cottage cheese</p>
 						<div class="price">
-							<span>13,50</span>
+							<span>3,99</span>
 						</div>
 					</article>
 				</div>
@@ -61,7 +61,7 @@
 									<p class="title">75- MASALA KULCHA</p>
 									<p class="description">bread stuffed with spicy potatoes, cottage cheese & onion</p>
 						<div class="price">
-							<span>14,20</span>
+							<span>3,99</span>
 						</div>
 					</article>
 				</div>
@@ -72,7 +72,7 @@
 									<p class="title">76- ONOIN KULCHA</p>
 									<p class="description">bread stuffed with spicy onions</p>
 						<div class="price">
-							<span>16,50</span>
+							<span>3,99</span>
 						</div>
 					</article>
 				</div>
@@ -81,7 +81,7 @@
 									<p class="title">77- KEEMA NAAN</p>
 									<p class="description">baked bread stuffed minced meat</p>
 						<div class="price">
-							<span></span>
+							<span>4,50</span>
 						</div>
 					</article>
 				</div>
@@ -90,7 +90,7 @@
 									<p class="title">78- VEGETABLE PIZZA NAAN</p>
 									<p class="description">mozzarella cheese stuffed bread with vegetable</p>
 						<div class="price">
-							<span></span>
+							<span>3,99</span>
 						</div>
 					</article>
 				</div>
@@ -101,7 +101,7 @@
 									<p class="title">79- CHICKEN PIZZA NAAN</p>
 									<p class="description">mozzarella cheese stuffed bread with chicken</p>
 						<div class="price">
-							<span>16,50</span>
+							<span>4,50</span>
 						</div>
 					</article>
 				</div>
@@ -110,7 +110,7 @@
 									<p class="title">80- ROTI</p>
 									<p class="description">wholemeal bread</p>
 						<div class="price">
-							<span></span>
+							<span>1,99</span>
 						</div>
 					</article>
 				</div>
@@ -119,7 +119,7 @@
 									<p class="title">81- GARLIC ROTI</p>
 									<p class="description">roti finished with garlic</p>
 						<div class="price">
-							<span></span>
+							<span>2,50</span>
 						</div>
 					</article>
 				</div>
@@ -130,7 +130,7 @@
 									<p class="title">82- LACCHA PARATHA</p>
 									<p class="description">flaky whole meal bread</p>
 						<div class="price">
-							<span>16,50</span>
+							<span>2,99</span>
 						</div>
 					</article>
 				</div>
@@ -139,7 +139,7 @@
 									<p class="title">83- ALOO PARATHA</p>
 									<p class="description">whole meal bread stuffed with spicy potatoes</p>
 						<div class="price">
-							<span></span>
+							<span>3,99</span>
 						</div>
 					</article>
 				</div>

@@ -81,7 +81,7 @@
 										</div>
 									</div>-->
 								</div>
-								<a href="index.php?p=menu">
+								<a href="index.php?p=contact">
 									<div class="square-post">
 										<p class="title">Enquire <br/><strong>Now <i class="fa fa-arrow-circle-o-right"></i></strong></p>
 									</div>
@@ -104,7 +104,7 @@
 										<li><span>Th.</span> <strong>11:00am - 9:30pm</strong></li>
 										<li><span>Fr.</span> <strong>11:00am - 9:30pm</strong></li>
 										<li><span>Sa.</span> <strong>11:00am - 9:30pm</strong></li>
-										<li><span>Su.</span> <strong>5:00pm - 9:30pm</strong></li>
+										<li><span>Su.</span> <strong>5:00pm  - 9:30pm</strong></li>
 									</ul>
 								</div>							
 							</div>
@@ -112,7 +112,7 @@
 						<div class="col-md-6">
 							<div class="square">
 								<i class="fa fa-group "></i>
-								<a href="index.php?p=about">
+								<a href="" onclick="alert('coming soon...');">
 									<div class="square-bg" style="background-image:url(img/ofood.jpg)"></div>
 									<div class="square-header">
 										<p class="title">Order</p>

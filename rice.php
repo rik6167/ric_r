@@ -14,7 +14,7 @@
 									<p class="title">63- PULAO RICE</p>
 									<p class="description">Indian basmati steam rice</p>
 						<div class="price">
-							<span>16,50</span>
+							Reg:<span>3,00</span> Full:<span>5,00</span>
 						</div>
 					</article>
 				</div>
@@ -23,7 +23,7 @@
 									<p class="title">64- VEGETABLE PULAO</p>
 									<p class="description">rice cooked with fresh mix vegetables</p>
 						<div class="price">
-							<span>13,50</span>
+							<span>5,50</span>
 						</div>
 					</article>
 				</div>
@@ -32,7 +32,7 @@
 									<p class="title">65- MATTER PULAO</p>
 									<p class="description">rice cooked with green peas & garnished with golden fried onions</p>
 						<div class="price">
-							<span>14,20</span>
+							<span>5,00</span>
 						</div>
 					</article>
 				</div>
@@ -43,7 +43,7 @@
 									<p class="title">66- COCONUT RICE</p>
 									<p class="description">rice cooked in traditional south Indian style with coconut</p>
 						<div class="price">
-							<span>16,50</span>
+							<span>5,00</span>
 						</div>
 					</article>
 				</div>
@@ -52,7 +52,7 @@
 									<p class="title">67- KASHMIRI RICE</p>
 									<p class="description">rice cooked with mix dry fruits & nuts in sweet sauce</p>
 						<div class="price">
-							<span>13,50</span>
+							<span>6,50</span>
 						</div>
 					</article>
 				</div>
@@ -61,7 +61,7 @@
 									<p class="title">68- VEGETABLE BIRYANI</p>
 									<p class="description">rice cooked with spices & nuts with fresh vegetables</p>
 						<div class="price">
-							<span>14,20</span>
+							<span>9,50</span>
 						</div>
 					</article>
 				</div>
@@ -72,7 +72,7 @@
 									<p class="title">69- BIRYANI (CHICKEN & LAMB )</p>
 									<p class="description">rice cooked with spices & nuts with meat of your choices</p>
 						<div class="price">
-							<span>16,50</span>
+							<span>11,99</span>
 						</div>
 					</article>
 				</div>
