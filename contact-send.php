@@ -1,7 +1,7 @@
 <?php
 /////////////////////////////////////
 // Change this email address ////////
-$email = "gps6167@gmail.com";
+$email = "hello@royalindianclub.com.au";
 /////////////////////////////////////
 
 // Change this to true if you want to use your smtp server

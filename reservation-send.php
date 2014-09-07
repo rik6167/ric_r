@@ -2,7 +2,7 @@
 
 /////////////////////////////////////
 // Change this email address ////////
-$email = "CHANGE_THIS_ADDRESS@gmail.com";
+$email = "gps6167@gmail.com";
 /////////////////////////////////////
 
 if (isset($_POST['name'])) {
