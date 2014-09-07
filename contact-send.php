@@ -43,15 +43,15 @@ if ($useSMTP) {
 	//Ask for HTML-friendly debug output
 	$mail->Debugoutput = 'html';
 	//Set the hostname of the mail server
-	$mail->Host = "mail.example.com";
+	$mail->Host = "mail.mallexpresso.com.au";
 	//Set the SMTP port number - likely to be 25, 465 or 587
 	$mail->Port = 25;
 	//Whether to use SMTP authentication
 	$mail->SMTPAuth = true;
 	//Username to use for SMTP authentication
-	$mail->Username = "yourname@example.com";
+	$mail->Username = "hello@mallexpresso.com.au";
 	//Password to use for SMTP authentication
-	$mail->Password = "yourpassword";
+	$mail->Password = "Qwaszx!2";
 	//Set who the message is to be sent from
 	$mail->setFrom($_POST['email']);
 	//Set an alternative reply-to address
