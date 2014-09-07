@@ -5,7 +5,7 @@ $email = "gps6167@gmail.com";
 /////////////////////////////////////
 
 // Change this to true if you want to use your smtp server
-$useSMTP = false;
+$useSMTP = TRUE;
 
 $validation = array();
 
