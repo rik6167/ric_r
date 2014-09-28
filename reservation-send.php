@@ -1,10 +1,10 @@
 <?php
 
+ini_set("SMTP","mail.mallexpresso.com.au" );
 /////////////////////////////////////
 // Change this email address ////////
-$email = "gps6167@gmail.com";
+$email = "hello@royalindianclub.com.au";
 /////////////////////////////////////
-
 if (isset($_POST['name'])) {
 	$validation = array();
 

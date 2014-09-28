@@ -29,7 +29,7 @@
                     
 <!--                    Side -->
 			<div class="col-md-offset-1 col-md-3">
-                                <div class="square">
+<!--                                <div class="square">
                                         <div class="square-bg" style="background-image:url(img/clock.jpg)"></div>
                                         <i class="fa fa-clock-o"></i>
                                         <div class="square-header">
@@ -47,11 +47,11 @@
                                                         <li><span>Su.</span> <strong>5:00pm - 9:30pm</strong></li>
                                                 </ul>
                                         </div>							
-                                </div>
+                                </div>-->
 				<div class="widget-reservation">
 					<a href="index.php?p=reservation">
 					<div class="square">
-						<div class="square-bg" style="background-image:url(img/999.jpg)"></div>
+						<div class="square-bg" style="background-image:url(img/999.JPG)"></div>
 						<i class="fa fa-calendar-o"></i>
 						<div class="square-header">
 							<p class="title">Reserve</p>
@@ -66,7 +66,7 @@
 				<div class="widget-reservation">
 					<a href="index.php?p=entrees">
 					<div class="square">
-						<div class="square-bg" style="background-image:url(img/65.jpg)"></div>
+						<div class="square-bg" style="background-image:url(img/65.JPG)"></div>
 						<i class="fa fa-calendar-o"></i>
 						<div class="square-header">
 							<p class="title">Check</p>

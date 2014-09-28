@@ -11,8 +11,9 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
 		<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 		<link rel="stylesheet" href="less/custom.css">
-		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'>
-		<link href='http://fonts.googleapis.com/css?family=Covered+By+Your+Grace' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" href="css/typography.css">
+		<!--<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Covered+By+Your+Grace' rel='stylesheet' type='text/css'>-->
 		<link rel="stylesheet" href="less/jquery.maximage.css" type="text/css" media="screen" charset="utf-8" />
 		<script src="js/jquery-2.0.3.min.js"></script>
 		<script src="js/modernizr-2.6.2.min.js"></script>
